@@ -1,3 +1,8 @@
+## thanks Ryan
+
+changed a small part to take "domain" as an argument, for ".de" Amazaon marketplace.
+
+
 ## Amazon Review Scraper
 download a CSV of up to 5,000 reviews for any Amazon product. video tutorial for non dorks is [here]([url](https://twitter.com/ryanckulp/status/1657434781708066821)).
 
